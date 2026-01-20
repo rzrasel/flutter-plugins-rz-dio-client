@@ -1,3 +1,6 @@
+## 0.0.4
+- Missing documentation for a public member.
+
 ## 0.0.3
 - Added runtime auth token update support
 - Fixed interceptor lifecycle issues

@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "rz_dio_client",
-      "version": "0.0.2",
+      "version": "0.0.4",
       "dependencies": [
         "connectivity_plus",
         "dio",

@@ -2,7 +2,7 @@ name: rz_dio_client
 description: |
   A reusable Dio client package with interceptors, cancel token manager,
   API response wrapper, and support for auth token + timeout configuration.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/rzrasel/flutter-plugins-rz-dio-client
 repository: https://github.com/rzrasel/flutter-plugins-rz-dio-client
 documentation: https://github.com/rzrasel/flutter-plugins-rz-dio-client
